@@ -1,4 +1,5 @@
 AI Chat Agent with Cryptocurrency Price Fetching
+
 This project is a Flask-based AI chat agent that can:
 
 Respond to user messages using Together AI's LLaMA API.
